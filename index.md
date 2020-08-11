@@ -10,7 +10,7 @@
   
   <img src="https://placehold.it/200x200" alt="Kelsey Wyatt">
 
-  <p>Write a short paragraph about yourself or some placeholder text.</p>
+  <p>I graduated in 2017 from Florida State University with a Bachelor of Science degree in Statistics.</p>
   <p>A second short paragraph about yourself or some placeholder text.</p>
 
   <ul>
